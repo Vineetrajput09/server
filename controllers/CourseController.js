@@ -4,8 +4,8 @@ const cloudinary = require('cloudinary')
 // Configuration
 cloudinary.config({
     cloud_name: '@drxph5x5j',
-    api_key: '889534957669279',
-    api_secret: 'RTT2A9KYkOqyaNZflJlUR3E5vW8' // Click 'View API Keys' above to copy your API secret
+    api_key: '837293656351418',
+    api_secret: 'kTT79jx84W2T8JxQPjcxE2fTXys' // Click 'View API Keys' above to copy your API secret
 });
 
 class CourseController {
